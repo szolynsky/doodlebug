@@ -2,4 +2,4 @@ SELECT *
 FROM dbo.AxelFCallMethod (NOLOCK)
 WHERE 1=1
  AND SourceReferenceTypeId <> 2102
- AND SourceReferenceTypeId <> 2101
+ AND SourceReferenceTypeId <> 2103
